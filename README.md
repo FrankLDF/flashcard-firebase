@@ -1,5 +1,5 @@
 # FlashCard
-![Static Badge](https://img.shields.io/badge/status-Ongoing-Green?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/status-Complete-red?style=for-the-badge)
 
 an application which allows you to use firebase and send a message after prior registration
 
